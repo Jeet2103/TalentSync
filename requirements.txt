@@ -10,3 +10,8 @@ langchain-huggingface
 faiss-cpu
 huggingface-hub
 PyPDF2
+pymongo
+python-multipart
+jinja2
+requests
+sendgrid
